@@ -96,5 +96,5 @@ public class ServiciosReservaciones {
     public List<ContadorClientes> servicioTopClientes(){
         return metodosCrud.getTopClientes();
     }
-    
+
 }
